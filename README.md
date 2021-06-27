@@ -1,4 +1,4 @@
-# Hello, stranger! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hello,
 
 My name is Igor Meira and I'm a mobile developer. I'm from Brazil, living in São Paulo and currently working at Everis. You can find more about me on LinkedIn.
 
