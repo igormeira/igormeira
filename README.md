@@ -1,6 +1,6 @@
 # Hello,
 
-My name is Igor Meira and I'm a mobile developer. I'm from Brazil, living in São Paulo and currently working at Everis. You can find more about me on LinkedIn.
+My name is Igor Meira and I'm a mobile developer. I'm from Brazil, living in São Paulo and currently working at Itaú Unibanco. You can find more about me on LinkedIn.
 
 ## 🔧 Technologies
 ![](https://img.shields.io/badge/Platform-Android-informational?style=flat&logo=android&logoColor=white&color=66CD00)
